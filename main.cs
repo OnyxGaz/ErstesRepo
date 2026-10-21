@@ -1,10 +1,10 @@
 namespace HelloAgain
 {
-    class Test
+    class Main
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mein erstes Repository.");
+            Console.WriteLine("Hallo Dagda.");
         }
     }
 }
